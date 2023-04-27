@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['flash_attn'],
-    install_requires=['triton==2.0.0.dev20221202'],
+    # install_requires=['triton==2.0.0.dev20221202'],
 )
